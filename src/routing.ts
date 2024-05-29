@@ -56,7 +56,7 @@ router.post('/MailWeatherData', async (req, res) => {
       service: 'gmail',
       auth: {
         user: 'snehasinghrajput0206@gmail.com',
-        pass: 'lvlexzfwqpwnssyr',
+        pass: 'yourpass',
       },
     });
 
